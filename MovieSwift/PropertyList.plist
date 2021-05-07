@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MoviesTitles</key>
+	<array>
+		<string>Dawn of the Planet of the Apes</string>
+		<string>District 9</string>
+		<string>Transformers: Age of Extinction</string>
+		<string>X-Men: Days of Future Past</string>
+		<string>The Machinist</string>
+	</array>
+	<key>MoviesImages</key>
+	<array>
+		<string>f1</string>
+		<string>f2</string>
+		<string>f3</string>
+		<string>f4</string>
+		<string>f5</string>
+	</array>
+	<key>MoviesRates</key>
+	<array>
+		<real>8.300000000000001</real>
+		<integer>8</integer>
+		<real>6.3</real>
+		<real>8.4</real>
+		<real>7.8</real>
+	</array>
+	<key>MoviesYears</key>
+	<array>
+		<integer>2014</integer>
+		<integer>2009</integer>
+		<integer>2014</integer>
+		<integer>2014</integer>
+		<integer>2004</integer>
+	</array>
+	<key>MoviesGenre</key>
+	<array>
+		<string>Action , Drama , Sci-Fi</string>
+		<string>Action , Sci-Fi , Thriller</string>
+		<string>Action , Adventure , Sci-Fi</string>
+		<string>Action , Sci-Fi , Thriller</string>
+		<string>Drama , Thriller</string>
+	</array>
+</dict>
+</plist>
